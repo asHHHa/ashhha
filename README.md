@@ -1,8 +1,8 @@
 ### Hi there, I'm Asha Bhatta 👋
 
 ## B.Tech Undergrad
-- 🔭 I’m currently working on my website[website]!
-- 🌱 I’m currently learning Web developments languages
+- 🔭 I’m currently working on Front End Development.
+- 🌱 I’m currently learning React.js.
 - 🥅 2020 Goals: To be perfect in Web development and  do some projects.
 
 ### Connect with me:
@@ -15,8 +15,6 @@
 <br />
 <br />
 <br />
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=asHHHa&hide=issues&show_icons=true&title_color=9400D3&icon_color=9400D3&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
