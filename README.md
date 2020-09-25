@@ -26,7 +26,7 @@
 
 
 
-[website]: https://ashabhatta.netlify.app/
+[website]: https://asha.codes/
 [twitter]: https://twitter.com/AshaBhatta2
 [instagram]: https://instagram.com/ashabhatta/
 [linkedin]: https://linkedin.com/in/ashabhatta
