@@ -3,7 +3,6 @@
 ## B.Tech Undergrad
 - 🔭 I’m currently working on Front End Development.
 - 🌱 I’m currently learning React.js.
-- 🥅 2020 Goals: To be perfect in Web development and  do some projects.
 
 ### Connect with me:
 
@@ -20,9 +19,11 @@
 
  
 ### Blog posts:
+* <a href="https://blogue.tech/blogs/how-to-create-responsive-image-in-css" target="_blank">How to create responsive image in css</a>
 * <a href="https://blogue.tech/blogs/top-7-popular-code-editors:2020" target="_blank">Top 7 Popular Code Editors:[2020]</a>
 * <a href="https://blogue.tech/blogs/jobsearch-app-with-react.js" target="_blank">JobSearch App with React.js</a>
 * <a href="https://blogue.tech/blogs/top-frontend-frameworks-to-learn" target="_blank">Top Frontend Frameworks To Learn</a>
+* <a href="https://blogue.tech/profilepage/ashabhatta" target="_blank">Readmore...</a>
 
 
 
