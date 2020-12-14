@@ -1,6 +1,6 @@
 ### Hi there, I'm Asha Bhatta 👋
 
-## B.Tech Undergrad
+- 🎓 B.Tech Undergrad
 - 🔭 Sharpening skills on Front End Development.
 - 🌱 learning React.js ...
 
