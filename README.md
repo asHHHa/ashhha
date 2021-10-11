@@ -1,8 +1,8 @@
 ### Hi there, I'm Asha Bhatta 👋
 
 - 🎓 Computer Engineer
-- 🔭 Sharpening skills on Front End Development.
-- 🌱 learning React.js ...
+- 🔭 Sharpening skills on UI/UX Design,Front End Development.
+- 🌱 learning Tools liek figma, Adobe XD.
 
 ### Connect with me:
 
