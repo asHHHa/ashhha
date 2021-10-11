@@ -2,7 +2,7 @@
 
 - 🎓 Computer Engineer
 - 🔭 Sharpening skills on UI/UX Design,Front End Development.
-- 🌱 learning Tools liek figma, Adobe XD.
+- 🌱 learning Tools like figma, Adobe XD.
 
 ### Connect with me:
 
